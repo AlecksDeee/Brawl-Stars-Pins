@@ -1,10 +1,5 @@
 ## All Brawl Stars pins in good quality (most)
 
-In this repository all *brawler's* pins
+This repository contains all pins of the current version of the game.
 
-TODO:
- - Add exclusive and default pins
-
-Last update : 2/19/2024
-
-🤫-.. .-  .-.-  - --- -  ... .- -- -.-- .---  . -... .-.. .- -.  -.- --- - --- .-. -.-- .---  .--  ----- ----- .-.-.- ----- -----  -... ..- -.. . -  --.. .- --. .-. ..- ...- .- - -..-  .--. --- .-.. - --- .-. -.--  - -.-- ... .-.- ---. ..  ..-. .- .--- .-.. --- .--
+Last update : 2/21/2024
