@@ -2,4 +2,4 @@
 
 This repository contains all pins of the current version of the game. (55.262)
 
-Last update : 6/17/2024
+Last update : `June 16th, 2024`
